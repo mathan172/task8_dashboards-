@@ -1,0 +1,29 @@
+📝 Task 8 Summary – Simple Sales Dashboard Design
+In this task, I created an interactive sales dashboard using Power BI based on the Superstore Sales dataset. The goal was to visualize sales performance across different regions, categories, and months.
+
+Key steps included:
+
+Importing the dataset and formatting the Order Date into Month-Year format.
+
+Creating three visuals:
+
+A line chart for sales over time,
+
+A bar chart for sales by region,
+
+A donut chart for sales by category.
+
+Adding a slicer to filter the dashboard by Region.
+
+Applying color formatting to highlight top-performing areas.
+
+This dashboard enables business users to quickly understand trends and identify high-performing segments.
+
+📊 Key Insights
+West region consistently had the highest sales throughout the year.
+
+Technology category generated the highest profits among all categories.
+
+Sales peaked during November and December, showing a clear seasonal trend.
+
+Central and South regions showed lower sales and may need focused strategies.
